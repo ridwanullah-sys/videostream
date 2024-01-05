@@ -22,6 +22,14 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    "Video_upload_test_express/index.js",
+    "Video_upload_test_express/controller.js",
+    "Video_upload_test_express/controller.js"
+  ],
   "exclude": ["node_modules"]
 }

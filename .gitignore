@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 .yarn/install-state.gz
+/Video_upload_test_express/node_modules
 
 # testing
 /coverage
